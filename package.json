@@ -90,7 +90,7 @@
     "lodash-bound": "^1",
     "npm": "^6.4.1",
     "rxjs": "6.3.3",
-    "three": "^0.92.0",
+    "three": "^0.137.0",
     "three-orbit-controls": "^82.1.0",
     "three-text2d": "^0.4.1",
     "three-window-resize": "^1.0.4",
